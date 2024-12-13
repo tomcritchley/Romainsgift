@@ -1,6 +1,11 @@
 Good job for getting here, monsieur.
 
-In order to continue, go to the main part of this repo and download the hangman.py file, then run it on the terminal as python3 hangman.py - on a different tab to the puzzle.py script (which should still be running. 
+In order to continue, open another tab in the terminal and clone the repo; 
+``` git clone https://github.com/tomcritchley/Romainsgift.git ```
+``` cd Romainsgift ```
+``` python3 hangman.py ```
+
+Make sure you leave the other script running otherwise you will have to start again like a loser
 
 Good luck!
 
